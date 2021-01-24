@@ -1,0 +1,60 @@
+- Membuat Modul :
+  ^ Modul Users
+    * Create
+    * Read
+    * Update
+    * Delete
+  ^ Modul Role
+    * Create
+    * Read
+    * Update
+    * Delete
+  ^ Modul Kantor
+    * Create
+    * Read
+    * Update
+    * Delete
+  ^ Modul Kategori
+    * Create
+    * Read
+    * Update
+    * Delete
+  ^ Modul Inventaris
+    * Create
+    * Read
+    * Update
+    * Delete
+  ^ Modul TransPinjam
+    * Create
+    * Read
+    * Update
+    * Delete
+  ^ Modul TransKembali
+    * Create
+    * Read
+    * Update
+    * Delete    
+
+- Membuat Tampilan/View aplikasi :
+  ^ Halaman Login
+  ^ Halaman Dashboard
+  ^ Halaman Data Master
+    * Halaman Users
+    * Halaman Role
+    * Halaman Kantor
+    * Halaman Kategori
+    * Halaman Inventaris
+  ^ Halaman Transaksi
+    * Peminjaman
+    * Pengembalian
+  ^ Halaman Laporan
+  
+- Membuat Controller :
+  ^ Controller User
+  ^ Controller Role
+  ^ Controller Kantor
+  ^ Controller Kategori
+  ^ Controller Inventaris
+  ^ Controller TransPinjam
+  ^ Controller TransKembali
+  ^ Controller Laporan
