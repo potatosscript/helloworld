@@ -1,35 +1,35 @@
-- Membuat Modul :
-  ^ Modul Users
+- Membuat Model :
+  ^ Model Users
     * Create
     * Read
     * Update
     * Delete
-  ^ Modul Role
+  ^ Model Role
     * Create
     * Read
     * Update
     * Delete
-  ^ Modul Kantor
+  ^ Model Kantor
     * Create
     * Read
     * Update
     * Delete
-  ^ Modul Kategori
+  ^ Model Kategori
     * Create
     * Read
     * Update
     * Delete
-  ^ Modul Inventaris
+  ^ Model Inventaris
     * Create
     * Read
     * Update
     * Delete
-  ^ Modul TransPinjam
+  ^ Model TransPinjam
     * Create
     * Read
     * Update
     * Delete
-  ^ Modul TransKembali
+  ^ Model TransKembali
     * Create
     * Read
     * Update
